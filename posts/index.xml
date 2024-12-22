@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Vytautes site</title>
+    <link>https://github.com/tautevy/tautevy.github.io/posts/</link>
+    <description>Recent content in Posts on Vytautes site</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2024 11:34:18 +0200</lastBuildDate>
+    <atom:link href="https://github.com/tautevy/tautevy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graziu svenciu</title>
+      <link>https://github.com/tautevy/tautevy.github.io/posts/posts/</link>
+      <pubDate>Sun, 22 Dec 2024 11:34:18 +0200</pubDate>
+      <guid>https://github.com/tautevy/tautevy.github.io/posts/posts/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
